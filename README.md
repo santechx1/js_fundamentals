@@ -1,2 +1,2 @@
-# js101
+# Javascript Fundamentals
 Project with base concepts reviews
